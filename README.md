@@ -18,4 +18,4 @@ Tugas aplikasi mobile sederhana. Fokus ke login, register, dan dashboard.
 
 ## 🔗 Demo
 
-[Cek di Expo Snack](link_snack_anda)
+[Cek di Expo Snack](https://snack.expo.dev/@itamgosong/the-secure-guard)
